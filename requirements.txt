@@ -1,0 +1,5 @@
+Django==5.1.0
+Celery
+psycopg2-binary==2.9.9
+redis[hiredis]
+flower==1.2.0
